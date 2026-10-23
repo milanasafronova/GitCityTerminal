@@ -1,1 +1,1 @@
-Console.WriteLine("Goodbye from main");
+Console.WriteLine("Goodbye from both branches");
