@@ -1,1 +1,1 @@
-Console.WriteLine("Git City: build 1");
+Console.WriteLine("Git City: main greeting");
