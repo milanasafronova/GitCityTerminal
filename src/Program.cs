@@ -1,1 +1,1 @@
-Console.WriteLine("Git City: main greeting");
+Console.WriteLine("Git City: welcome, detective!");
